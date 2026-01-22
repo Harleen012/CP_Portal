@@ -1,0 +1,72 @@
+2026-01-05 13:13:08,882 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-05T07:43:05","request-id":"1d730d63-23d1-4c74-87a6-7c4695f86c95","client-request-id":"1d730d63-23d1-4c74-87a6-7c4695f86c95"}}}
+2026-01-05 13:13:14,590 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-05T07:43:11","request-id":"33ad7c30-c24a-440e-b011-60207ba23b9f","client-request-id":"33ad7c30-c24a-440e-b011-60207ba23b9f"}}}
+2026-01-05 13:14:48,919 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-05T07:44:45","request-id":"d6c89c5b-2ba6-404c-ac98-22aa1fa34a0a","client-request-id":"d6c89c5b-2ba6-404c-ac98-22aa1fa34a0a"}}}
+2026-01-05 13:14:52,108 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-05T07:44:49","request-id":"b9a0d87e-fdc6-46d0-af40-3d38295dce9b","client-request-id":"b9a0d87e-fdc6-46d0-af40-3d38295dce9b"}}}
+2026-01-05 13:14:59,298 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-05T07:44:56","request-id":"bea86356-2dde-4cbe-80b8-9f64de9369a0","client-request-id":"bea86356-2dde-4cbe-80b8-9f64de9369a0"}}}
+2026-01-05 13:19:56,529 - INFO - Folder 'Xero_Data' exists
+2026-01-05 13:19:58,465 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 09:10:51,578 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T03:40:52","request-id":"a9ea0359-8075-43b5-adfa-eba41621387c","client-request-id":"a9ea0359-8075-43b5-adfa-eba41621387c"}}}
+2026-01-06 09:41:15,128 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T04:11:15","request-id":"6a2cb33e-f32b-4ca4-a0cd-988482b08ad0","client-request-id":"6a2cb33e-f32b-4ca4-a0cd-988482b08ad0"}}}
+2026-01-06 09:42:04,542 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T04:12:05","request-id":"2ac83d17-30c5-4801-8e9b-903a0da3c8da","client-request-id":"2ac83d17-30c5-4801-8e9b-903a0da3c8da"}}}
+2026-01-06 09:43:36,145 - INFO - Folder 'Xero_Data' exists
+2026-01-06 09:43:37,186 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 09:49:00,027 - INFO - Folder 'Xero_Data' exists
+2026-01-06 09:49:01,476 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 10:27:17,290 - INFO - Folder 'Xero_Data' exists
+2026-01-06 10:27:19,190 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 10:36:25,515 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:06:26","request-id":"33d107a9-148e-4a7e-82f1-82eeebe06102","client-request-id":"33d107a9-148e-4a7e-82f1-82eeebe06102"}}}
+2026-01-06 10:36:30,368 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:06:31","request-id":"feffbe63-0705-45e8-aa2c-2e1d18707c99","client-request-id":"feffbe63-0705-45e8-aa2c-2e1d18707c99"}}}
+2026-01-06 10:36:37,599 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:06:38","request-id":"35f846a1-f0dd-494b-8c55-61808838a0a4","client-request-id":"35f846a1-f0dd-494b-8c55-61808838a0a4"}}}
+2026-01-06 10:37:21,442 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:07:22","request-id":"be513186-98de-467a-8f6c-6b3d238b84dc","client-request-id":"be513186-98de-467a-8f6c-6b3d238b84dc"}}}
+2026-01-06 10:37:50,958 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:07:51","request-id":"dc64bbad-dbdc-4f20-83b0-a429125472ff","client-request-id":"dc64bbad-dbdc-4f20-83b0-a429125472ff"}}}
+2026-01-06 10:38:11,418 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:08:12","request-id":"6e0e9712-aea2-4fc2-b59d-051a04f7a4db","client-request-id":"6e0e9712-aea2-4fc2-b59d-051a04f7a4db"}}}
+2026-01-06 10:38:12,626 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:08:13","request-id":"e4ca2cdf-b43d-481f-83b5-ae5ba80bdf58","client-request-id":"e4ca2cdf-b43d-481f-83b5-ae5ba80bdf58"}}}
+2026-01-06 10:38:20,375 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:08:21","request-id":"d47db154-6bcc-4c1a-b084-ac498f6d36a6","client-request-id":"d47db154-6bcc-4c1a-b084-ac498f6d36a6"}}}
+2026-01-06 10:39:33,630 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:09:34","request-id":"e7765369-7dd0-4536-be1b-f196d5306b01","client-request-id":"e7765369-7dd0-4536-be1b-f196d5306b01"}}}
+2026-01-06 10:40:14,171 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:10:14","request-id":"13e9cfe2-5557-4071-8a59-f53ed6171757","client-request-id":"13e9cfe2-5557-4071-8a59-f53ed6171757"}}}
+2026-01-06 10:40:15,324 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:10:16","request-id":"12b203cb-f25f-4e62-8777-f4749acc184c","client-request-id":"12b203cb-f25f-4e62-8777-f4749acc184c"}}}
+2026-01-06 10:40:43,114 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:10:43","request-id":"ae0f326f-503b-492a-99ef-2727cb5bd9b9","client-request-id":"ae0f326f-503b-492a-99ef-2727cb5bd9b9"}}}
+2026-01-06 10:41:52,344 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:11:53","request-id":"f1697a10-2070-4571-89fa-9a23f6d66c0b","client-request-id":"f1697a10-2070-4571-89fa-9a23f6d66c0b"}}}
+2026-01-06 10:44:15,286 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:14:15","request-id":"d8c3b068-a87c-470f-ab14-f8597af04ed6","client-request-id":"d8c3b068-a87c-470f-ab14-f8597af04ed6"}}}
+2026-01-06 10:44:19,613 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:14:20","request-id":"2fb0da40-4ead-4706-9108-1546f8d608de","client-request-id":"2fb0da40-4ead-4706-9108-1546f8d608de"}}}
+2026-01-06 10:44:25,803 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:14:26","request-id":"d5fe7b3e-3426-4850-9938-3222dbf5451a","client-request-id":"d5fe7b3e-3426-4850-9938-3222dbf5451a"}}}
+2026-01-06 10:44:29,004 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T05:14:29","request-id":"834e1aa3-78b9-48af-b965-752d09450824","client-request-id":"834e1aa3-78b9-48af-b965-752d09450824"}}}
+2026-01-06 10:45:25,892 - INFO - Folder 'Xero_Data' exists
+2026-01-06 10:45:27,741 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 10:45:53,656 - INFO - Folder 'Xero_Data' exists
+2026-01-06 10:45:55,386 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 10:54:59,190 - INFO - Folder 'Xero_Data' exists
+2026-01-06 10:55:00,663 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 10:55:24,265 - INFO - Folder 'Xero_Data' exists
+2026-01-06 10:55:25,756 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 11:07:24,083 - INFO - Folder 'Xero_Data' exists
+2026-01-06 11:07:26,031 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 11:08:58,368 - INFO - Folder 'Xero_Data' exists
+2026-01-06 11:08:59,927 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 11:38:50,694 - INFO - Folder 'Xero_Data' exists
+2026-01-06 11:38:52,147 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 11:39:26,739 - INFO - Folder 'Xero_Data' exists
+2026-01-06 11:39:28,679 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 11:40:01,036 - INFO - Folder 'Xero_Data' exists
+2026-01-06 11:40:02,580 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 11:42:41,198 - INFO - Folder 'Xero_Data' exists
+2026-01-06 11:42:42,865 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 13:23:24,321 - INFO - Folder 'Xero_Data' exists
+2026-01-06 13:23:26,607 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 13:27:32,640 - INFO - Folder 'Xero_Data' exists
+2026-01-06 13:27:34,893 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 13:28:13,188 - INFO - Folder 'Xero_Data' exists
+2026-01-06 13:28:15,236 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 13:44:56,944 - INFO - Folder 'Xero_Data' exists
+2026-01-06 13:44:57,864 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 13:52:12,100 - INFO - Folder 'Xero_Data' exists
+2026-01-06 13:52:13,463 - INFO - Folder 'CPA_Reports' exists
+2026-01-06 17:45:13,011 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-06T12:15:13","request-id":"4ef2d805-e495-4a4a-b075-8bfa8a238d4d","client-request-id":"4ef2d805-e495-4a4a-b075-8bfa8a238d4d"}}}
+2026-01-06 17:47:01,428 - INFO - Folder 'Xero_Data' exists
+2026-01-06 17:47:03,479 - INFO - Folder 'CPA_Reports' exists
+2026-01-07 09:07:25,945 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-07T03:37:25","request-id":"556ca175-2143-4e43-8794-2590bca69c90","client-request-id":"556ca175-2143-4e43-8794-2590bca69c90"}}}
+2026-01-07 09:11:23,149 - INFO - Folder 'Xero_Data' exists
+2026-01-07 09:11:24,683 - INFO - Folder 'CPA_Reports' exists
+2026-01-07 13:19:41,892 - ERROR - Site resolve failed: 401 {"error":{"code":"InvalidAuthenticationToken","message":"Lifetime validation failed, the token is expired.","innerError":{"date":"2026-01-07T07:49:41","request-id":"0f4b1189-ff5b-4456-a271-85833e661114","client-request-id":"0f4b1189-ff5b-4456-a271-85833e661114"}}}
+2026-01-07 13:21:23,466 - INFO - Folder 'Xero_Data' exists
+2026-01-07 13:21:24,522 - INFO - Folder 'CPA_Reports' exists
